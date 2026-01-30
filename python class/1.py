@@ -1,5 +1,5 @@
 # #  Basic Assignment
-num3 =5 
+num3 =6
 num3*=4
 print(num3)
 
@@ -51,3 +51,4 @@ notes added
 
 
 dictionary example
+
