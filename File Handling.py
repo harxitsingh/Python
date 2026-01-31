@@ -5,7 +5,7 @@ with open(r"C:\Users\Harshit Singh\OneDrive\Desktop\students.txt", "r") as f1:
     content = f1.read()
     print(content)
 
-# Output Example:
+#Output Example:
 # Amit , 20 , Delhi
 # Neha ,22 , Mumbai
 # Rahul , 19 , Kolkata
@@ -102,3 +102,4 @@ with open("students.txt", "r") as f:
 # Neha - 18
 # Amit - 22
 # Karan - 23
+
